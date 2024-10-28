@@ -1,2 +1,3 @@
 import random
-from PIL import random
+from PIL import Image
+
